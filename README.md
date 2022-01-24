@@ -1,6 +1,6 @@
 # JCSS_Database
 
-JCSS_Database is a repository for making data relevant to structural safety accessible to researchers, students and practicioners. The database provides data sets uploaded by individual contributors and also links to external relevent data sets. All data sets are grouped into 5 categories, whcih can be found in 5 separate folders:
+JCSS_Database is a repository for making data relevant to structural safety accessible to researchers, students and practitioners. The database provides data sets uploaded by individual contributors and also links to external relevent data sets. All data sets are grouped into 5 categories, which can be found in 5 separate folders:
 - Data on loads
 - Data on material properties
 - Data on structure failure 
@@ -16,13 +16,13 @@ JCSS_Database is a repository for making data relevant to structural safety acce
     - **Data source**
     - **Citation**
     - **License (if there is one)**
-- Liciense (strongly recommended): It is highly recommended that contributors include a liciense in their documentation. Otherwise, the uploaded data set is under a CC BY-NC-SA 4.0 license. The [Liciense Selector](https://ufal.github.io/public-license-selector/) could be useful in finding a proper license.
+- License (strongly recommended): It is highly recommended that contributors include a license in their documentation. Otherwise, the uploaded data set is under a CC BY-NC-SA 4.0 license. The [License Selector](https://ufal.github.io/public-license-selector/) could be useful in finding a proper license.
 - All documentation for submission should be included in one **single folder**.
 
 #### How to upload data set
-There are two ways to uplaod a dataset:
+There are two ways to upload a dataset:
 1. First, copy the JCSS_database repo. to your github account by clicking the **Fork** button on the top right of the official JCSS_database repo. Then upload the data set (a single folder) to the JCSS_database copied to your account. After this is done, change to the **Pull request** module and click the green button **New pull request** to issue a pull request for us to review the changes and to merge your changes in the copied repo. into the original JCSS_database repo. 
-2. In the official JCSS_database repo., change to the **Issues** module and click the green button **New issuw** to create an issue, which will notify us. We will then add your data set (a single folder) to the repo.
+2. In the official JCSS_database repo., change to the **Issues** module and click the green button **New issue** to create an issue, which will notify us. We will then add your data set (a single folder) to the repo.
 
 ## Download data set
 There are multiple ways of downloading data sets from the database：
