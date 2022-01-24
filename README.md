@@ -16,7 +16,7 @@ document attached
 ### liciense
 
 ## Download data
-There are multiple ways of 
+There are multiple ways of downloading a data set from the database.
 
 ## License
 Unless otherwise stated by the contributors, all data sets from the JCSS_Database is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/).
