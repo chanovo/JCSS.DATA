@@ -7,13 +7,22 @@ JCSS_Database is a repository for making data relevant to structural safety acce
 - Inspection data
 - Data of other types
  
-### Upload data
-#### document needed
-- data (mandatory): Any **documented text-based format** is acceptable.
-- readme.md (mandatory): 
-- liciense (strongly recommended)
+### Upload data set
+#### Documentation for submission 
+- Data (mandatory): Any **documented text-based format** is acceptable.
+- README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
+    - **Data format** 
+    - **Attributes etc.**
+    - **Data source**
+    - **Citation**
+    - **License (if there is one)**
+- Liciense (strongly recommended): It is highly recommended that contributors include a liciense in their documentation. Otherwise, the uploaded data set is under a CC BY-NC-SA 4.0 license. The [Liciense Selector](https://ufal.github.io/public-license-selector/) could be useful in finding a proper license.
+- All documentation for submission should be included in one **single folder**.
 
-#### procedure
+#### How to upload data set
+There are two ways to uplaod a dataset:
+1. First, copy the JCSS_database repo. to your github account by clicking the **Fork** button on the top right of the official JCSS_database repo. Then upload the data set (a single folder) to the JCSS_database copied to your account. After this is done, change to the **Pull request** module and click the green button **New pull request** to issue a pull request for us to review the changes and to merge your changes in the copied repo. into the original JCSS_database repo. 
+2. In the official JCSS_database repo., change to the **Issues** module and click the green button **New issuw** to create an issue, which will notify us. We will then add your data set (a single folder) to the repo.
 
 ### Download data set
 There are multiple ways of downloading data sets from the database：
@@ -22,6 +31,6 @@ There are multiple ways of downloading data sets from the database：
 - For git users, clone the repo. to your local computer with HTTPS or SSH.
 
 ### License
-Unless otherwise stated by the contributors, all data sets from the JCSS_Database is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/).
+Unless otherwise stated by the contributors, all data sets from the JCSS_Database is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/). 
 
 
