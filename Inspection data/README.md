@@ -2,8 +2,8 @@
 
 This folder collects inspection data. 
 
-## Summary of the data sets uploaded by individual contributors
+### Summary of the data sets uploaded by individual contributors
 
-## Links to relevant data sets provided elsewhere
+### Links to relevant data sets provided elsewhere
 
 
