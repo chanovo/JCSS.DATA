@@ -34,7 +34,7 @@ n. __You__ means the individual or entity exercising the Licensed Rights under t
 
 ## Section 2 – Scope.
 
-a. ___License grant.___
+a. __License grant.__
 
    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 
@@ -58,7 +58,7 @@ a. ___License grant.___
 
    6. __No endorsement.__ Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i).
 
-b. ___Other rights.___
+b. __Other rights.__
 
    1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
 
@@ -70,7 +70,7 @@ b. ___Other rights.___
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-a. ___Attribution.___
+a. __Attribution.__
 
    1. If You Share the Licensed Material (including in modified form), You must:
 
@@ -94,7 +94,7 @@ a. ___Attribution.___
 
    3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable.
 
-b. ___ShareAlike.___
+b. __ShareAlike.__
 
 In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply.
 
