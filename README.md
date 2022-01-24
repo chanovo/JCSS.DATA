@@ -8,10 +8,9 @@ All data sets are grouped into 5 categories:
 - Data on loads
 - Data on material properties
 - Data on structure failure 
+- Inspection data
+- Data of other types
  
-
-Each uploaded data set is stored in a separated folder and is attributed into 5 categories:  
-
 ### Upload data
 
 #### data format 
