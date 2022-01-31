@@ -1,5 +1,6 @@
 # JCSS_Database
 
+## Introduction
 JCSS_Database is a repository for making data relevant to structural safety accessible to researchers, students and practitioners. The database provides data sets uploaded by individual contributors and also links to external relevant data sets. All data sets are grouped into 5 categories, which can be found in 5 separate folders:
 - Data on loads
 - Data on material properties
