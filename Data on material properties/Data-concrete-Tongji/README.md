@@ -5,14 +5,17 @@ Microsoft Excel Worksheet(.xlsx file).
 
 ## Description
 The data set shows the tested stress(MPa) and strain of concrete under uniaxial compression. The specifications of the test data can be found in the following table:
-|Strength grade|Specimen size (mm)|Numbers|Ultimate strain|Strain rate (1/s)|
-|--------------|------------------|-------|---------------|-----------------|
-|     C30      |   150X150X300    |  33   |     0.007     |  10^-5 ~ 10^-3  |
-|     C40      |   150X150X300    |  33   |     0.0066    |  10^-5 ~ 10^-3  |
-|     C50      |   150X150X300    |  33   |     0.006     |  10^-5 ~ 60^-3  |
+|Strength grade|Specimen size (mm)|Number of specimens|Ultimate strain|Strain rate (1/s)|
+|--------------|------------------|-------------------|---------------|-----------------|
+|     C30      |   150X150X300    |        33         |     0.007     |  10^-5 ~ 10^-3  |
+|     C40      |   150X150X300    |        33         |     0.0066    |  10^-5 ~ 10^-3  |
+|     C50      |   150X150X300    |        33         |     0.006     |  10^-5 ~ 60^-3  |
 
 ## Resources
 The data set came from Ren et al. (2008), Yan et al. (2016) and Tao et al. (2020).
+
+## Contributor
+Prof. Chen (Email: chenjb@tongji.edu.cn)
 
 ## Use and Restrictions
 For those interested in using these test data, please feel free to use it subject to the constraints described in the Restrictions. Use of the data in any derivative work (defined here as a thesis, dissertation, conference paper, journal paper, engineering report, etc.) requires the citations of the test data references.
