@@ -10,12 +10,13 @@ JCSS_Database is a repository for making data relevant to structural safety acce
  
 ## Upload data set
 #### Documentation for submission 
+An examplary data set named **Data-concrete-Tongji** is given in the folder **Data on material properties**.
 - Data (mandatory): Any **documented text-based format** is acceptable.
 - README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
-    - **Data format** 
-    - **Attributes etc.**
+    - **Data format**：It is best to use formats that can be easily read in with Matlab, Python, etc. 
+    - **Attributes etc.**: 
     - **Data source**
-    - **Citation**
+    - **Citation (if there is any)**
     - **License (if there is one)**
 - License (strongly recommended): It is highly recommended that contributors include a license in their documentation. Otherwise, the uploaded data set is under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by/4.0/). The [License Selector](https://ufal.github.io/public-license-selector/) could be useful in finding a proper license.
 - All documentation for submission should be included in one **single folder**.
