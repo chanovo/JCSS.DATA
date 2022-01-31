@@ -14,7 +14,7 @@ An examplary data set named **Data-concrete-Tongji** is given in the folder **Da
 - Data (mandatory): Any **documented text-based format** is acceptable.
 - README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
     - **Data format**：It is best to use formats that can be easily read in with Matlab, Python, etc. 
-    - **Description**: A specific decription of the data set should be included.
+    - **Description**: A specific description of the data set should be included in the README.md file.
     - **Data source**
     - **contact information**
     - **Citation (if there is any)**
