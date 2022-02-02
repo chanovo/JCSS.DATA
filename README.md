@@ -19,6 +19,7 @@ An examplary data set named **Data-concrete-Tongji** is given in the folder **Da
     - **Contact information**
     - **Citation (if there is any)**
     - **License (if there is one)**
+    - **additional documentation**
 - License (strongly recommended): It is highly recommended that contributors include a license in their documentation. Otherwise, the uploaded data set is under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by/4.0/). The [License Selector](https://ufal.github.io/public-license-selector/) could be useful in finding a proper license.
 - All documentation for submission should be included in one **single folder**.
 
