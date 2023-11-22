@@ -38,4 +38,5 @@ There are two ways of uploading a dataset:
 Unless otherwise stated by the contributors, all data sets from the JCSS_Database is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Links to external databases
-- [International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE)](http://140.112.12.21/issmge/tc304.htm)
+- [International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE) Database](http://140.112.12.21/issmge/tc304.htm) is a publically available database for investigating inherent spatial variability and mechanic properties of soil and rocks.  
+- [Transportation Networks for Research](https://github.com/bstabler/TransportationNetworks) is a repository of real-world transportation networks primarily meant for static traffic assignment.
