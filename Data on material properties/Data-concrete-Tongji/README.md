@@ -8,11 +8,11 @@ The data set shows the tested stress(MPa) and strain of concrete under uniaxial 
 ### Table 1: The specifications of the test data
 |Strength grade|Specimen size (mm)|Number of specimens|Ultimate strain|Strain rate (1/s)|
 |:--------------:|:------------------:|:-------------------:|:---------------:|:-----------------:|
-|     C30      |   150X150X300    |        33         |     0.007     |  10^-5 ~ 10^-3  |
+|     C30      |   150X150X300    |        33         |     0.007     |  $10^-5$ ~ 10^-3  |
 |     C40      |   150X150X300    |        33         |     0.0066    |  10^-5 ~ 10^-3  |
 |     C50      |   150X150X300    |        33         |     0.006     |  10^-5 ~ 60^-3  |
 
-### Table 2: Concrete mix proportion by weight (kg/m$^3$)
+### Table 2: Concrete mix proportion by weight (kg/m^3)
 |Strength grade|Water|Portland cement| Sand |Gravel(5~25mm)|Fly ash|Slag|Superplasticizer|
 |:--------------:|:-----:|:---------------:|:------:|:--------------:|:-------:|:----:|:----------------:|
 |     C30      | 117 |      225      |  853 |     1024     |  52   | 69 |       4.5      |
