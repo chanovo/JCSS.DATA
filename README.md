@@ -40,3 +40,4 @@ Unless otherwise stated by the contributors, all data sets from the JCSS_Databas
 ## Links to external databases
 - [International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE) Database](http://140.112.12.21/issmge/tc304.htm) is a publically available database for investigating inherent spatial variability and mechanic properties of soil and rocks.  
 - [Transportation Networks for Research](https://github.com/bstabler/TransportationNetworks) is a repository of real-world transportation networks primarily meant for static traffic assignment.
+- [Extreme Winds and Wind Effects on Structures](https://www.itl.nist.gov/div898/winds/homepage.htm) is a website that provides datasets and software for analysis of extreme wind speeds and other extreme phenomena in wind engineering.
