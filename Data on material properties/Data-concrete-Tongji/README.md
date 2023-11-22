@@ -8,7 +8,7 @@ The data set shows the tested stress(MPa) and strain of concrete under uniaxial 
 ### Table 1: The specifications of the test data
 |Strength grade|Specimen size (mm)|Number of specimens|Ultimate strain|Strain rate (1/s)|
 |:--------------:|:------------------:|:-------------------:|:---------------:|:-----------------:|
-|     C30      |   150X150X300    |        33         |     0.007     |  $10^-5$ ~ 10^-3  |
+|     C30      |   150X150X300    |        33         |     0.007     |  10\^-5 ~ 10^-3  |
 |     C40      |   150X150X300    |        33         |     0.0066    |  10^-5 ~ 10^-3  |
 |     C50      |   150X150X300    |        33         |     0.006     |  10^-5 ~ 60^-3  |
 
