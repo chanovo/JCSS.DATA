@@ -5,14 +5,16 @@ Text file.
 
 ## Description
 The data set shows the tested stress(MPa) and strain of concrete under uniaxial compression. The specifications of the test data are summarized in Tables 1 and 2:
+### Table 1: 
 |Strength grade|Specimen size (mm)|Number of specimens|Ultimate strain|Strain rate (1/s)|
 |--------------|------------------|-------------------|---------------|-----------------|
 |     C30      |   150X150X300    |        33         |     0.007     |  10^-5 ~ 10^-3  |
 |     C40      |   150X150X300    |        33         |     0.0066    |  10^-5 ~ 10^-3  |
 |     C50      |   150X150X300    |        33         |     0.006     |  10^-5 ~ 60^-3  |
 
+### Table 2: 
 |Strength grade|Water|Portland cement| Sand |Gravel(5~25mm)|Fly ash|Slag|Superplasticizer|
-|--------------|---------------------|------|--------------|-------|----|----------------|
+|--------------|-----|---------------|------|--------------|-------|----|----------------|
 |     C30      | 117 |      225      |  853 |     1024     |  52   | 69 |       4.5      |
 |     C40      | 162 |      250      |  796 |     1034     |  58   | 77 |       3.47     |
 |     C50      | 111 |      254      |  817 |     1026     |  72   | 97 |       4.23     |
