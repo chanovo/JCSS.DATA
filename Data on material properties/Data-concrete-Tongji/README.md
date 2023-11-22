@@ -1,7 +1,7 @@
 # Data-concrete-Tongji
 
 ## Data format
-Microsoft Excel Worksheet(.xlsx file).
+Text file.
 
 ## Description
 The data set shows the tested stress(MPa) and strain of concrete under uniaxial compression. The specifications of the test data can be found in the following table:
