@@ -18,6 +18,7 @@ The data set shows the tested stress(MPa) and strain of concrete under uniaxial 
 |     C30      | 117 |      225      |  853 |     1024     |  52   | 69 |       4.5      |
 |     C40      | 162 |      250      |  796 |     1034     |  58   | 77 |       3.47     |
 |     C50      | 111 |      254      |  817 |     1026     |  72   | 97 |       4.23     |
+
 More details can be found in Backgroud.pdf.
 
 ## Source
