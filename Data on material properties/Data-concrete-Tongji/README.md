@@ -19,8 +19,8 @@ The data set shows the tested stress(MPa) and strain of concrete under uniaxial 
 |     C40      | 162 |      250      |  796 |     1034     |  58   | 77 |       3.47     |
 |     C50      | 111 |      254      |  817 |     1026     |  72   | 97 |       4.23     |
 
-## Resources
-The data set came from Ren et al. (2008), Yan et al. (2016), and Tao et al. (2020).
+## Source
+The data set comes from experiments performed at Tongji University, which are described in Ren et al. (2008), Yan et al. (2016), and Tao et al. (2020).
 
 ## Contributor
 Prof. Chen (Email: chenjb@tongji.edu.cn)
