@@ -5,6 +5,7 @@ JCSS.DATA is a repository for data relevant to structural safety, which can be a
 
 
 The data sets are grouped into 5 categories, which can be found in 5 separate folders:
+
 - Data on loads
 - Data on material properties
 - Data on structure failure 
@@ -21,6 +22,7 @@ There are multiple ways to download a data set：
 #### Documentation for submission
 When uploading a data set, make sure that it is properly documented. An examplary data set named **Data-concrete-Tongji** is given in the folder **Data on material properties**. \
 Any submission should include the following:
+
 - Data (mandatory): Any **documented text-based format** is acceptable.
 - README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
     - **Data format**：It is best to use formats that can be easily read in with Matlab, Python, etc. 

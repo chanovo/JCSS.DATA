@@ -1,5 +1,5 @@
-# Data of other types
+# Other data
 
-This folder collects data of other types. 
+This folder collects other data.
 
 
