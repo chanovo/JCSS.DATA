@@ -1,12 +1,12 @@
 # JCSS.DATA
 
 ## Introduction
-JCSS_Database is a repository for making data relevant to structural safety accessible to researchers, students and practitioners. The database provides data sets uploaded by individual contributors and also links to external relevant data sets. All data sets are grouped into 5 categories, which can be found in 5 separate folders:
+JCSS.DATA is a repository for making data relevant to structural safety accessible to researchers, students and practitioners. The database provides data sets uploaded by individual contributors and also links to external relevant data sets. All data sets are grouped into 5 categories, which can be found in 5 separate folders:
 - Data on loads
 - Data on material properties
 - Data on structure failure 
 - Inspection data
-- Data of other types
+- Other data
  
  ## Download a data set
 There are multiple ways of downloading a data set from the database：
@@ -16,7 +16,7 @@ There are multiple ways of downloading a data set from the database：
 
 ## Upload a data set
 #### Documentation for submission
-An examplary data set named **Data-concrete-Tongji** is given in the folder **Data on material properties**.
+An examplary data set named **Concrete-stress-strain-Tongji** is given in the folder **Data on material properties**.
 - Data (mandatory): Any **documented text-based format** is acceptable.
 - README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
     - **Data format**：It is best to use formats that can be easily read in with Matlab, Python, etc. 
