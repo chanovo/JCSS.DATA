@@ -6,7 +6,7 @@ JCSS_Database is a repository for making data relevant to structural safety acce
 - Data on material properties
 - Data on structure failure 
 - Inspection data
-- Data of other types
+- Other data
  
  ## Download a data set
 There are multiple ways of downloading a data set from the database：
