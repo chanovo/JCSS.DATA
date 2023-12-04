@@ -31,7 +31,7 @@ Any submission should include the following:
     - **Contact information**
     - **Citation (if there is any)**
     - **License (if there is one)**
-    - **additional documentation**
+    - **Additional documentation**
 - License (strongly recommended): It is highly recommended that contributors include a license in their documentation. Otherwise, the uploaded data set is by default under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by/4.0/). The [License Selector](https://ufal.github.io/public-license-selector/)  can be useful in identifying a proper license.
 - Additional documents, such as background reports and papers, can be included.
   
