@@ -16,7 +16,7 @@ There are multiple ways of downloading a data set from the database：
 
 ## Upload a data set
 #### Documentation for submission
-An examplary data set named **Data-concrete-Tongji** is given in the folder **Data on material properties**.
+An examplary data set named **Concrete-stress-strain-Tongji** is given in the folder **Data on material properties**.
 - Data (mandatory): Any **documented text-based format** is acceptable.
 - README.md (mandatory): To make the data set easier to use, contributors should provide the following information in the README.md file:
     - **Data format**：It is best to use formats that can be easily read in with Matlab, Python, etc. 
