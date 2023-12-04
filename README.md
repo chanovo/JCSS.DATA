@@ -1,10 +1,10 @@
 # JCSS.DATA
 
 ## Introduction
-JCSS.DATA is a repository for data relevant to structural safety, which can be accessed by researchers, students and practitioners. Data sets can be uploaded by individual contributors. It is an initiative of the Joint Committee on Structural Safety (JCSS). 
+JCSS.DATA is a repository for data relevant to structural safety, which can be accessed by researchers, students, and practitioners. Data sets can be uploaded by individual contributors. It is an initiative of the Joint Committee on Structural Safety (JCSS). 
 
 
-The data sets are grouped into 5 categories, which can be found in 5 separate folders:
+The data sets are grouped into five categories, which can be found in 5 separate folders:
 
 - Data on loads
 - Data on material properties
@@ -15,12 +15,12 @@ The data sets are grouped into 5 categories, which can be found in 5 separate fo
  ## Download a data set
 There are multiple ways to download a data set：
 - Above the lists of all files, click the green icon `Code`, and then choose `Download Zip` in the dropdown list. In this way, the whole database will be downloaded to your local computer.       
-- To download a single file, first go to the file you want to download, then click it to view the contents within the GitHub UI. On the top right, click the `Raw` button. Finally, right click and save the file.
+- To download a single file, first go to the file you want to download, then click it to view the contents within the GitHub UI. On the top right, click the `Raw` button. Finally, right-click and save the file.
 - Git users can clone the repository to their local computer with HTTPS or SSH.
 
 ## Upload a data set
 #### Documentation for submission
-When uploading a data set, make sure that it is properly documented. An examplary data set named **Data-concrete-Tongji** is given in the folder **Data on material properties**. \
+When uploading a data set, make sure that it is properly documented. An examplary data set named **Concrete-stress-strain-Tongji** is given in the folder **Data on material properties**. \
 Any submission should include the following:
 
 - Data (mandatory): Any **documented text-based format** is acceptable.
