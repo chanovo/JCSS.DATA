@@ -39,11 +39,11 @@ All documentation for submission should be included in one **single folder**.
 
 #### How to upload a data set
 There are two ways of uploading a dataset:
-1. First, copy the JCSS.DATA repository to your github account by clicking the `Fork` button on the top right of the official JCSS_Database repo. Then upload the data set folder to the JCSS.DATA in your account (See how [here](https://github.community/t/add-a-folder/2304)). After this is done, change to the `Pull request` module and click the green button `New pull request` to issue a pull request for us to review the changes and to merge your changes in the copied repo. into the original JCSS.DATA repository.
+1. First, copy the JCSS.DATA repository to your github account by clicking the `Fork` button on the top right of the official JCSS.DATA repo. Then upload the data set folder to the JCSS.DATA in your account (See how [here](https://github.community/t/add-a-folder/2304)). After this is done, change to the `Pull request` module and click the green button `New pull request` to issue a pull request for us to review the changes and to merge your changes in the copied repo. into the original JCSS.DATA repository.
 3. In the official JCSS.DATA repository, change to the `Issues` module and click the green button `New issue` to create an issue, which will notify us. We will then add your data set (a single folder) to the repo.
 
 ## License
-Unless otherwise stated by the contributors, all data sets from the JCSS_Database is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/). 
+Unless otherwise stated by the contributors, all data sets from the JCSS.DATA is under a CC BY-NC-SA 4.0 license. A brief summary of the license can be found [here](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Links to external databases
 The following are other databases, which provide data relevant to structural safety:
