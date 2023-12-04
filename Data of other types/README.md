@@ -1,5 +1,5 @@
 # Other data
 
-This folder collects other data. 
+This folder collects other data.
 
 
